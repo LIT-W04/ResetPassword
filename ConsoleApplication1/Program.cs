@@ -18,6 +18,7 @@ namespace ConsoleApplication1
                 "XKsYHgKmi0Zu/buwv6pPTAB7VU3OT0vSwaHd5/IDNUs=");
             if (doesMatch)
             {
+                Console.WriteLine("Hello from Github");
                 Console.WriteLine("Right password! we're very happy for you and I hope you're happy too!!");
             }
             else
