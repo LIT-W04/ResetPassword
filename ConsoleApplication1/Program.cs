@@ -19,6 +19,7 @@ namespace ConsoleApplication1
             if (doesMatch)
             {
                 Console.WriteLine("From sublime text");
+                Console.WriteLine("Hello from Github");
                 Console.WriteLine("Right password! we're very happy for you and I hope you're happy too!!");
             }
             else
